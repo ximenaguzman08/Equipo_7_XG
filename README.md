@@ -1,6 +1,6 @@
 # RealTime Sensing
 
-Repositorio del curso de sensado en tiempo real.
+Repositorio del proyecto final.
 
 ## Contenido
 
