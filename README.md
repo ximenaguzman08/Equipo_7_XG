@@ -1,6 +1,7 @@
 # RealTime Sensing
 
 Repositorio del proyecto final. Equipo 7 - Ximena Guzmán 
+Repositorio del proyecto final. Equipo 7 - Odalys Ochoa
 
 ## Contenido
 
