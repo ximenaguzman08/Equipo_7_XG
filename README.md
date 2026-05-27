@@ -1,6 +1,6 @@
 # RealTime Sensing
 
-Repositorio del proyecto final.
+Repositorio del proyecto final. Equipo 7 - Ximena Guzmán 
 
 ## Contenido
 
